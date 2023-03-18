@@ -1,0 +1,58 @@
+
+.head
+{
+    text-align:center;
+   background-color: grey;
+    padding-block:35px;
+}
+.nav
+{
+    text-align:center;
+    background-color: grey;
+    padding-block:35px;
+}
+.g1
+{
+    display:flex;
+    justify-content:space-between;
+}
+.con
+{
+    text-align:center;
+    background-color:grey;
+    display:inline-block;
+    width:350px;
+    height:200px;
+   padding-top:200px;
+      
+   
+}
+.maincon
+{
+    text-align:center;
+    background-color:grey;
+    display:inline-block;
+    width:795px;
+    height:200px;
+    padding-top:200px;
+    
+
+}
+.con1
+{
+    text-align:center;
+    background-color:grey;
+    display:inline-block;
+    width:322px;
+   height:200px;
+   padding-top:200px;
+   
+}
+
+
+.foot
+{
+    text-align:center;
+    background-color: grey;
+    padding-block:35px;
+}
